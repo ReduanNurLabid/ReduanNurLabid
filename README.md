@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Reduan%20Nur%20Labid&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Engineer%20%26%20ML%20Researcher&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Reduan%20Nur%20Labid&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Engineer%20and%20ML%20Researcher&descAlignY=55&descSize=18" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Native+Android+%7C+Kotlin+%26+Jetpack+Compose;Full-Stack+Web+%7C+React+%26+TypeScript;Applied+ML+%7C+PyTorch+%26+Transformers;BRAC+University+CS+Graduate+%2726)](https://git.io/typing-svg)
 
@@ -72,7 +72,7 @@ I take performance seriously — whether that's profiling an Android app for zer
 [![PetHood](https://github-readme-stats.vercel.app/api/pin/?username=ReduanNurLabid&repo=PetHood&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/ReduanNurLabid/PetHood)
 
 [![BRACULA](https://github-readme-stats.vercel.app/api/pin/?username=ReduanNurLabid&repo=BRACULA-old-&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/ReduanNurLabid/BRACULA-old-)
-[![WGAN-GP IDS](https://github-readme-stats.vercel.app/api/pin/?username=ReduanNurLabid&repo=Leveraging-Network-Intrusion-Detection-System-using-WGAN-GP&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/ReduanNurLabid/Leveraging-Network-Intrusion-Detection-System-using-WGAN-GP)
+[![CineCompose](https://github-readme-stats.vercel.app/api/pin/?username=ReduanNurLabid&repo=CineCompose&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/ReduanNurLabid/CineCompose)
 
 </div>
 
