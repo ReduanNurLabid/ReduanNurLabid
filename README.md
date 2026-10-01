@@ -71,7 +71,7 @@ I take performance seriously — whether that's profiling an Android app for zer
 [![PotFlix](https://github-readme-stats.vercel.app/api/pin/?username=ReduanNurLabid&repo=PotFlix&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/ReduanNurLabid/PotFlix)
 [![PetHood](https://github-readme-stats.vercel.app/api/pin/?username=ReduanNurLabid&repo=PetHood&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/ReduanNurLabid/PetHood)
 
-[![BRACULA](https://github-readme-stats.vercel.app/api/pin/?username=ReduanNurLabid&repo=BRACULA-old-&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/ReduanNurLabid/BRACULA-old-)
+[![BRACULA](https://github-readme-stats.vercel.app/api/pin/?username=ReduanNurLabid&repo=BRACULA&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/ReduanNurLabid/BRACULA)
 [![CineCompose](https://github-readme-stats.vercel.app/api/pin/?username=ReduanNurLabid&repo=CineCompose&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/ReduanNurLabid/CineCompose)
 
 </div>
