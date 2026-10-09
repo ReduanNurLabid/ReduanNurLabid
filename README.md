@@ -20,7 +20,7 @@ I'm a CS graduate from **BRAC University** who builds things people actually use
 
 I take performance seriously — whether that's profiling an Android app for zero ANR, optimizing a model to 1.4M inferences/sec, or setting up CI/CD that deploys reliably on every push.
 
-- 🔭 Currently working on **PotFlix v3** and **PetHood**
+- 🔭 Currently working on **[BD Public Pulse](https://politicalcompass.web.app/)** and **PetHood**
 - 🌱 Researching **Bangla NLP** and code-mixed text — an underexplored space
 - 📫 Reach me at **reduannur.labid@gmail.com**
 - 🇧🇩 Based in **Dhaka, Bangladesh**
